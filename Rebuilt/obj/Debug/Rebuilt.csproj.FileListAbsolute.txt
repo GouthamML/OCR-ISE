@@ -1,0 +1,40 @@
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\Rebuilt.exe.config
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\Rebuilt.exe
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\Rebuilt.pdb
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\obj\Debug\Rebuilt.Form1.resources
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\obj\Debug\Rebuilt.Properties.Resources.resources
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\obj\Debug\Rebuilt.csproj.GenerateResource.Cache
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\obj\Debug\Rebuilt.exe
+c:\users\goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\obj\Debug\Rebuilt.pdb
+C:\Users\Goutham\Documents\Visual Studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Imaging.dll
+C:\Users\Goutham\Documents\Visual Studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.dll
+C:\Users\Goutham\Documents\Visual Studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Math.dll
+C:\Users\Goutham\Documents\Visual Studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Imaging.xml
+C:\Users\Goutham\Documents\Visual Studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.xml
+C:\Users\Goutham\Documents\Visual Studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Math.xml
+C:\Users\Goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\SVM.dll
+C:\Users\Goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Video.dll
+C:\Users\Goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Video.xml
+C:\Users\Goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Goutham\documents\visual studio 2017\Projects\Rebuilt\Rebuilt\obj\Debug\Rebuilt.csprojResolveAssemblyReference.cache
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\Rebuilt.exe.config
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\Rebuilt.exe
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\Rebuilt.pdb
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Controls.dll
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.dll
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Fuzzy.dll
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Genetic.dll
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Math.dll
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.xml
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Controls.xml
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Fuzzy.xml
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Genetic.xml
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\bin\Debug\AForge.Math.xml
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\obj\Debug\Rebuilt.csprojResolveAssemblyReference.cache
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\obj\Debug\Rebuilt.Form1.resources
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\obj\Debug\Rebuilt.Properties.Resources.resources
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\obj\Debug\Rebuilt.csproj.GenerateResource.Cache
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\obj\Debug\Rebuilt.exe
+E:\Works\Machine Learning - OCR\Rebuilt\Rebuilt\obj\Debug\Rebuilt.pdb
